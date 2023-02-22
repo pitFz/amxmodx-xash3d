@@ -1,1 +1,0 @@
-# amxmodx-xash3d
